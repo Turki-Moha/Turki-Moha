@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Turki-Moha
 - 👀 I’m interested in mobile app development and web development 
 - 🌱 I’m currently learning Flutter,database systems.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 twitter @MrTurkiM7
 
 <!---
