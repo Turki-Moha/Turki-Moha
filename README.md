@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=turki-moha&show_icons=true&locale=en&layout=compact" alt="turki-moha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turki-moha&show_icons=true&locale=en" alt="turki-moha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turki-moha&" alt="turki-moha" /></p>
