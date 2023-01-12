@@ -16,6 +16,6 @@
 <a href="https://www.leetcode.com/turki221m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="turki221m" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=turki-moha&show_icons=true&locale=en&layout=compact" alt="turki-moha" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Turki-Moha&show_icons=true&locale=en&layout=compact" alt="turki-moha" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turki-moha&show_icons=true&locale=en" alt="turki-moha" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Turki-Moha&show_icons=true&locale=en" alt="turki-moha" /></p>
