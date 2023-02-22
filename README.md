@@ -7,8 +7,6 @@
 
 - 💬 Ask me about: **Cross platform development, backend development, IoT, Data analytics.**
 
-- 📫 How to reach me **turkiMAlkazman@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrturkim7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrturkim7" height="30" width="40" /></a>
